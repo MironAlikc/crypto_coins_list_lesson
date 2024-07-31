@@ -16,7 +16,6 @@ final darkTeme = ThemeData(
   listTileTheme: const ListTileThemeData(
     iconColor: Colors.white,
   ),
-
   textTheme: const TextTheme(
     bodyMedium: TextStyle(
       color: Colors.white,

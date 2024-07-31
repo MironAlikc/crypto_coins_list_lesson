@@ -11,6 +11,7 @@ class CryptoListScreen extends StatefulWidget {
 
 class _MyHomePageState extends State<CryptoListScreen> {
   List<CryptoCoin>? _cryptoCoinList;
+
   @override
   void initState() {
     _loadCryptocoins();
